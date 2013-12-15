@@ -1,0 +1,1011 @@
+m255
+K3
+z0
+13
+cModel Technology
+Z0 dC:\altera\12.0\modelsim_ase
+vadd
+Z1 !s100 NVQ8H?g89nkPT^k@`_j9`1
+Z2 Ib_O@[g<DLj`8T[LlDo^=E3
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 dC:/Users/Michael Nwani/Desktop/wth/Advanced_Project
+Z5 w1386202395
+Z6 8C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add.v
+Z7 FC:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add.v
+L0 1
+Z8 OP;L;10.2c;57
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+Z11 !s110 1387067930
+Z12 !s108 1387067930.476000
+Z13 !s107 C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAdder
+Z14 !s110 1387068427
+Z15 !s100 3IDS6>1JPLBOVh3d`mmdg3
+Z16 I[<`IE8jVnQM8IO97z`Z1k0
+R3
+R4
+Z17 w1386007997
+Z18 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/adder.v
+Z19 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/adder.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/adder.v|
+R10
+Z21 n@adder
+Z22 !s108 1387068427.834000
+Z23 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z24 !s110 1387068428
+Z25 !s100 iZVHO2YP;OcGVk[>`ZnAj2
+Z26 ICGQK;A<dAFUCUN4B4E<1?3
+R3
+R4
+Z27 w1387068075
+Z28 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ALU.v
+Z29 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ALU.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ALU.v|
+R10
+Z31 n@a@l@u
+Z32 !s108 1387068428.685000
+Z33 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_tb
+Z34 !s110 1386572958
+Z35 IX[G;gZWC=X40I11akmme20
+R3
+Z36 dC:/Users/Michael Nwani/Desktop/Advanced_Project
+Z37 w1386202396
+Z38 8C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU_tb.v
+Z39 FC:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU_tb.v
+L0 3
+R8
+r1
+31
+R10
+Z40 n@a@l@u_tb
+Z41 !s100 NiGjWM8W86Q1dD4UMb[FE2
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU_tb.v|
+Z43 !s108 1386572958.605000
+Z44 !s107 C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vAnd
+R24
+Z45 !s100 kee4`2n@Vn]0a9<DA@4`U1
+Z46 Ii3cF`SYWefc@ZZCCI9T`j1
+R3
+R4
+Z47 w1387068119
+Z48 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/and.v
+Z49 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/and.v
+L0 1
+R8
+r1
+31
+R10
+n@and
+Z50 !s108 1387068428.774000
+Z51 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/and.v|
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/and.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vandmod
+Z53 I^bdQAKnC8NGie1V8:k2502
+R3
+Z54 dC:\Users\Tien\Downloads\FinalProject\Homework6
+Z55 w1354744620
+Z56 8C:/Users/Tien/Downloads/FinalProject/Homework6/and.v
+Z57 FC:/Users/Tien/Downloads/FinalProject/Homework6/and.v
+L0 1
+Z58 OP;L;10.2a;57
+r1
+31
+R10
+Z59 !s110 1366564482
+Z60 !s100 L7:XQcZ^K`bhCmFFo8@`71
+Z61 !s108 1366564482.885000
+Z62 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/and.v|
+Z63 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/and.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcomparator
+Z64 IkMoN?Zhbc:4LD9zdZ53GT3
+R3
+R54
+Z65 w1354837488
+Z66 8C:/Users/Tien/Downloads/FinalProject/Homework6/comparator.v
+Z67 FC:/Users/Tien/Downloads/FinalProject/Homework6/comparator.v
+L0 1
+R58
+r1
+31
+R10
+Z68 !s110 1366564483
+Z69 !s100 3>Y?@FCfBiVG4Ji`FaRNo1
+Z70 !s108 1366564483.006000
+Z71 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/comparator.v|
+Z72 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/comparator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCompare
+R24
+Z73 !s100 :e]lzE?6>m_M>Og:F`o8F2
+Z74 ID<36AgF9J5TKl:Bm^:_Q20
+R3
+R4
+Z75 w1387068148
+Z76 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/comparator.v
+Z77 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/comparator.v
+L0 1
+R8
+r1
+31
+R10
+Z78 n@compare
+Z79 !s108 1387068428.864000
+Z80 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/comparator.v|
+Z81 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/comparator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+R24
+Z82 !s100 U?TAmYz[AO;ZF93B4GAMH2
+Z83 IKa7d;DgXSmYedZ_XGmN7E0
+R3
+R4
+Z84 w1387068171
+Z85 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/control.v
+Z86 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/control.v
+L0 1
+R8
+r1
+31
+R10
+Z87 n@control
+Z88 !s108 1387068428.952000
+Z89 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/control.v|
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_unit
+R68
+Z91 I6UbGcg4o?6fX<1N=e6bdP3
+R3
+R54
+Z92 w1354842246
+Z93 8C:/Users/Tien/Downloads/FinalProject/Homework6/control.v
+Z94 FC:/Users/Tien/Downloads/FinalProject/Homework6/control.v
+L0 1
+R58
+r1
+31
+R10
+Z95 !s100 @i6f3U62oJeJ98>;S>N`T1
+Z96 !s108 1366564483.135000
+Z97 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/control.v|
+Z98 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_unit_tb
+Z99 I3IL3?dEJPQ5EW5H>DBmH13
+R3
+R36
+R37
+Z100 8C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control_tb.v
+Z101 FC:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control_tb.v
+L0 3
+R8
+r1
+31
+R10
+Z102 !s110 1386572745
+Z103 !s100 0K1X:<^hJJ@GQmMiZ]6oH1
+Z104 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control_tb.v|
+Z105 !s108 1386572745.249000
+Z106 !s107 C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu
+R14
+Z107 !s100 7RLUFjNoR>^E6Vmh]<O:?0
+Z108 IYKn^W]R20`DFgmnB2`HhQ1
+R3
+R4
+Z109 w1386572724
+Z110 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/cpu.v
+Z111 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/cpu.v
+L0 2
+R8
+r1
+31
+Z112 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/cpu.v|
+R10
+Z113 !s108 1387068427.944000
+Z114 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu_tb
+R14
+Z115 !s100 E2Y3:6mY`R_8j;^5=W^W^2
+Z116 I?zBnB8QJGXK9CCmacWchc1
+R3
+R4
+Z117 w1386572884
+Z118 8C:/Users/Michael Nwani/Desktop/Advanced_Project/cpu_tb.v
+Z119 FC:/Users/Michael Nwani/Desktop/Advanced_Project/cpu_tb.v
+L0 3
+R8
+r1
+31
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/Advanced_Project/cpu_tb.v|
+R10
+Z121 !s108 1387068427.743000
+Z122 !s107 C:/Users/Michael Nwani/Desktop/Advanced_Project/cpu_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_MEM
+Z123 !s100 J`=1@Ibz38b2L>A5cF8;e0
+Z124 IF6?UoJH2<SA]?h<8T^7>j1
+R3
+R4
+Z125 w1387068206
+Z126 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/EX_MEM_reg.v
+Z127 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/EX_MEM_reg.v
+L0 1
+R8
+r1
+31
+R10
+Z128 n@e@x_@m@e@m
+Z129 !s110 1387068429
+Z130 !s108 1387068429.041000
+Z131 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/EX_MEM_reg.v|
+Z132 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/EX_MEM_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEXMEM
+R68
+Z133 INcfz0]TVEBMT]hZ5_G1ma1
+R3
+R54
+Z134 w1354825054
+Z135 8C:/Users/Tien/Downloads/FinalProject/Homework6/EX_MEM_reg.v
+Z136 FC:/Users/Tien/Downloads/FinalProject/Homework6/EX_MEM_reg.v
+L0 1
+R58
+r1
+31
+R10
+Z137 n@e@x@m@e@m
+Z138 !s100 0=<kOUD>Jk_Kaz25GVFUS2
+Z139 !s108 1366564483.483000
+Z140 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/EX_MEM_reg.v|
+Z141 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/EX_MEM_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vForwarding_Unit
+R24
+Z142 !s100 C1?nLfQlZ`_A?gRNGBFXO3
+Z143 IWENWL1VjbngkCA9d:oSZm2
+R3
+R4
+Z144 w1387002002
+Z145 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Forwarding_Unit.v
+Z146 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Forwarding_Unit.v
+L0 1
+R8
+r1
+31
+Z147 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Forwarding_Unit.v|
+R10
+Z148 n@forwarding_@unit
+Z149 !s108 1387068428.132000
+Z150 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Forwarding_Unit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHazard_Detection_Unit
+R24
+Z151 !s100 ;1I4QL^VKBn_hEMQQ6jWT0
+Z152 IZQTb?774fM@z:hkSZMogM0
+R3
+R4
+Z153 w1387002051
+Z154 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Hazard_Detection_Unit.v
+Z155 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Hazard_Detection_Unit.v
+L0 1
+R8
+r1
+31
+Z156 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Hazard_Detection_Unit.v|
+R10
+Z157 n@hazard_@detection_@unit
+Z158 !s108 1387068428.224000
+Z159 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Hazard_Detection_Unit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_EX
+R129
+Z160 !s100 11Id9AVNLSDhcPJ]=R1P]1
+Z161 IXoM_XHa@MXj33CzZRFc8m0
+R3
+R4
+Z162 w1387068236
+Z163 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ID_EX_reg.v
+Z164 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ID_EX_reg.v
+L0 1
+R8
+r1
+31
+R10
+Z165 n@i@d_@e@x
+Z166 !s108 1387068429.132000
+Z167 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ID_EX_reg.v|
+Z168 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/ID_EX_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIDEX
+Z169 !s110 1366564484
+Z170 IPSJjKXj:??4X;`:nm9a0@2
+R3
+R54
+Z171 w1354827594
+Z172 8C:/Users/Tien/Downloads/FinalProject/Homework6/ID_EX_reg.v
+Z173 FC:/Users/Tien/Downloads/FinalProject/Homework6/ID_EX_reg.v
+L0 1
+R58
+r1
+31
+R10
+Z174 n@i@d@e@x
+Z175 !s100 X43<<gZ2]6FbWldhjVefI3
+Z176 !s108 1366564484.126000
+Z177 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/ID_EX_reg.v|
+Z178 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/ID_EX_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_ID
+R129
+Z179 !s100 V2a5D>Lj>;dkWd]_>zDaY1
+Z180 I?IUF34dkEA8M1I@Je@Ki[0
+R3
+R4
+Z181 w1387068256
+Z182 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/IF_ID_reg.v
+Z183 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/IF_ID_reg.v
+L0 1
+R8
+r1
+31
+R10
+Z184 n@i@f_@i@d
+Z185 !s108 1387068429.234000
+Z186 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/IF_ID_reg.v|
+Z187 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/IF_ID_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIFID
+R169
+Z188 IUZ4nQdLOeVf9C7AJ:E72m1
+R3
+R54
+Z189 w1354837418
+Z190 8C:/Users/Tien/Downloads/FinalProject/Homework6/IF_ID_reg.v
+Z191 FC:/Users/Tien/Downloads/FinalProject/Homework6/IF_ID_reg.v
+L0 1
+R58
+r1
+31
+R10
+Z192 n@i@f@i@d
+Z193 !s100 4mI4ho_TnZ4gLG>ZiWhRP1
+Z194 !s108 1366564484.447000
+Z195 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/IF_ID_reg.v|
+Z196 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/IF_ID_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmain_tb
+Z197 !s110 1386572746
+Z198 Ih8:G^ONbP4:WAfcQS55712
+R3
+R36
+Z199 w1386572733
+Z200 8C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/main_tb.v
+Z201 FC:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/main_tb.v
+L0 3
+R8
+r1
+31
+R10
+Z202 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/main_tb.v|
+Z203 !s100 c>Md8z`F7hWS6>RIYjkPz0
+Z204 !s108 1386572746.184000
+Z205 !s107 C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/main_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_WB
+R129
+Z206 !s100 a:OhfHZfGhFn@C[W98BRl2
+Z207 I]^4]=gFmE>1[3_nSmT72N2
+R3
+R4
+Z208 w1387068280
+Z209 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/MEM_WB_reg.v
+Z210 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/MEM_WB_reg.v
+L0 1
+R8
+r1
+31
+R10
+Z211 n@m@e@m_@w@b
+Z212 !s108 1387068429.328000
+Z213 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/MEM_WB_reg.v|
+Z214 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/MEM_WB_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemory
+R129
+Z215 !s100 dR<GIREJ=4hWZRTiX??[<1
+Z216 Idd<imR4dj4IhN5LATK7Rk2
+R3
+R4
+Z217 w1387068324
+Z218 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/memory.v
+Z219 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/memory.v
+L0 7
+R8
+r1
+31
+R10
+Z220 n@memory
+!i10b 1
+!s85 0
+Z221 !s108 1387068429.417000
+Z222 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/memory.v|
+Z223 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/memory.v|
+!s101 -O0
+vMEMWB
+R169
+Z224 ISzl3Sf^<RVSbX?Z5EJPHJ1
+R3
+R54
+Z225 w1354825078
+Z226 8C:/Users/Tien/Downloads/FinalProject/Homework6/MEM_WB_reg.v
+Z227 FC:/Users/Tien/Downloads/FinalProject/Homework6/MEM_WB_reg.v
+L0 1
+R58
+r1
+31
+R10
+Z228 n@m@e@m@w@b
+Z229 !s100 87JS=M5T?UT8`j5Wg`2?L1
+Z230 !s108 1366564484.969000
+Z231 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/MEM_WB_reg.v|
+Z232 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/MEM_WB_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_2_1
+R24
+Z233 !s100 o=E@P4nU5DCg?[_:`zBMk3
+Z234 IeS>I4U@`ZmNb_:FefWIIU3
+R3
+R4
+Z235 w1386561805
+Z236 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/2_1_mux.v
+Z237 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/2_1_mux.v
+L0 1
+R8
+r1
+31
+Z238 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/2_1_mux.v|
+R10
+Z239 !s108 1387068428.489000
+Z240 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/2_1_mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_2_1_tb
+Z241 !s110 1366564485
+Z242 IMhTJcSGd`C76Yn2hK5YdQ1
+R3
+R54
+Z243 w1353418834
+Z244 8C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_tb.v
+Z245 FC:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_tb.v
+L0 3
+R58
+r1
+31
+R10
+Z246 !s100 HGU:RYk>aR`5GiNb>;SUj2
+Z247 !s108 1366564485.701000
+Z248 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_tb.v|
+Z249 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_2to1
+R241
+Z250 I0cIhXYoM3GY^;N8HLZUIa1
+R3
+R54
+Z251 w1353380534
+Z252 8C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1.v
+Z253 FC:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1.v
+L0 1
+R58
+r1
+31
+R10
+Z254 n@m@u@x_2to1
+Z255 !s100 WiFioUION`:9RXFlW2fl02
+Z256 !s108 1366564485.314000
+Z257 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1.v|
+Z258 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_2to1_5bit
+R241
+Z259 IfP>L;DRfOnahSn8ALOiUZ1
+R3
+R54
+Z260 w1353380356
+Z261 8C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_5bit.v
+Z262 FC:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_5bit.v
+L0 1
+R58
+r1
+31
+R10
+Z263 n@m@u@x_2to1_5bit
+Z264 !s100 :S_BiBQPT3UjeMa_CV6CE1
+Z265 !s108 1366564485.449000
+Z266 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_5bit.v|
+Z267 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_5bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_2to1_9bit
+R241
+Z268 Im90GUMlKj]FE?91D@=3m71
+R3
+R54
+Z269 w1354826270
+Z270 8C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_8bit.v
+Z271 FC:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_8bit.v
+L0 1
+R58
+r1
+31
+R10
+Z272 n@m@u@x_2to1_9bit
+Z273 !s100 FBHg5ceXgiecKk2N6kLo:1
+Z274 !s108 1366564485.582000
+Z275 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_8bit.v|
+Z276 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/mux_2x1_8bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_3_1
+R24
+Z277 !s100 D6e`Oe[90_]BAi>3H[Fl[2
+Z278 I=d?3SgH3248O?JB^GnMR_2
+R3
+R4
+Z279 w1386562257
+Z280 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/3_1_mux.v
+Z281 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/3_1_mux.v
+L0 1
+R8
+r1
+31
+Z282 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/3_1_mux.v|
+R10
+Z283 !s108 1387068428.404000
+Z284 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/3_1_mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_3to1
+R241
+Z285 Igzjjce`Zz?F9;AP2KN`3`2
+R3
+R54
+Z286 w1354676158
+Z287 8C:/Users/Tien/Downloads/FinalProject/Homework6/mux_3x1_32bit.v
+Z288 FC:/Users/Tien/Downloads/FinalProject/Homework6/mux_3x1_32bit.v
+L0 1
+R58
+r1
+31
+R10
+Z289 n@m@u@x_3to1
+Z290 !s100 JBnjN<=zLz0fR<B@7::FB2
+Z291 !s108 1366564485.815000
+Z292 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/mux_3x1_32bit.v|
+Z293 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/mux_3x1_32bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+R24
+Z294 !s100 RB3N41lLzYQoe[M=eVFb`3
+Z295 Ic>GZVMG89hC0la0QS@9mZ1
+R3
+R4
+Z296 w1387002123
+Z297 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/PC.v
+Z298 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/PC.v
+L0 1
+R8
+r1
+31
+Z299 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/PC.v|
+R10
+n@p@c
+Z300 !s108 1387068428.315000
+Z301 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_Plus_4
+R34
+Z302 Ic:Xn9^]3MmG:fMfTaKb^@1
+R3
+R36
+R37
+Z303 8C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add4.v
+Z304 FC:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add4.v
+L0 1
+R8
+r1
+31
+R10
+Z305 n@p@c_@plus_4
+Z306 !s100 PJQP[B@zhm8;eIHCEMCzV0
+Z307 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add4.v|
+Z308 !s108 1386572958.222000
+Z309 !s107 C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_reg
+R241
+Z310 I2Bgo:`aFFKJXBc9BBj6Tk2
+R3
+R54
+Z311 w1354837416
+Z312 8C:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg.v
+Z313 FC:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg.v
+L0 1
+R58
+r1
+31
+R10
+Z314 n@p@c_reg
+Z315 !s100 W_IgjkiS=d>L>>KXGb@>Y1
+Z316 !s108 1366564485.912000
+Z317 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg.v|
+Z318 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC_reg_tb
+Z319 I8E3AOl2KAAMjOCe:;DIci2
+R3
+R54
+Z320 w1353356422
+Z321 8C:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg_tb.v
+Z322 FC:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg_tb.v
+L0 3
+R58
+r1
+31
+R10
+Z323 n@p@c_reg_tb
+Z324 !s110 1366564486
+Z325 !s100 C58eEzEO<;z7DcM_QOg[a0
+Z326 !s108 1366564486.057000
+Z327 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg_tb.v|
+Z328 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/pc_reg_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vprocessor
+R197
+Z329 IdN<Jf0m4ZUdZ3:P4Zm@i10
+R3
+R36
+Z330 w1386570379
+Z331 8C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/processor.v
+Z332 FC:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/processor.v
+L0 1
+R8
+r1
+31
+R10
+Z333 !s100 ?MT[HRZ<eYWbVTocQR4<k3
+Z334 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/processor.v|
+Z335 !s108 1386572746.592000
+Z336 !s107 C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/processor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vprocessor_tb
+Z337 I2]RjRCz2WRYW:OYbX>1_02
+Z338 VA@=eDRFOlHj=73A@IeYY<2
+Z339 dC:\altera\12.0\modelsim_ase\CompArch\Homework6
+Z340 w1353417848
+Z341 8C:/altera/12.0/modelsim_ase/CompArch/Homework6/processor_tb.v
+Z342 FC:/altera/12.0/modelsim_ase/CompArch/Homework6/processor_tb.v
+L0 3
+Z343 OV;L;10.0d;49
+r1
+31
+Z344 !s102 -nocovercells
+Z345 o-work work -nocovercells -O0
+Z346 !s100 49nnLD=DA0c3Z8?l`EgaQ1
+Z347 !s108 1353417849.057000
+Z348 !s107 C:/altera/12.0/modelsim_ase/CompArch/Homework6/processor_tb.v|
+Z349 !s90 -reportprogress|300|-work|work|-nocovercells|C:/altera/12.0/modelsim_ase/CompArch/Homework6/processor_tb.v|
+!s85 0
+!s101 -O0
+vReg_32x32
+Z350 IKo?Azn9^g<Umb9IMSX_Bj1
+Z351 VPXi1ZOjQCM=KamL?WX?IG2
+R339
+Z352 w1352382221
+Z353 8C:/altera/12.0/modelsim_ase/CompArch/Homework6/32_bit_registerfile.v
+Z354 FC:/altera/12.0/modelsim_ase/CompArch/Homework6/32_bit_registerfile.v
+L0 1
+R343
+r1
+31
+R344
+R345
+Z355 n@reg_32x32
+Z356 !s100 _13K:OI_[UzaXnY9TY4;82
+Z357 !s90 -reportprogress|300|-work|work|-nocovercells|C:/altera/12.0/modelsim_ase/CompArch/Homework6/32_bit_registerfile.v|
+Z358 !s108 1353287687.218000
+Z359 !s107 C:/altera/12.0/modelsim_ase/CompArch/Homework6/32_bit_registerfile.v|
+!s85 0
+!s101 -O0
+vRegFile
+Z360 !s100 7JA1677R4J9o`AfE?0DO62
+Z361 I^b8QKnU]2K_9od3UYF5Oo2
+R3
+R4
+Z362 w1387002134
+Z363 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Register_File.v
+Z364 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Register_File.v
+L0 2
+R8
+r1
+31
+Z365 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Register_File.v|
+R10
+Z366 n@reg@file
+R24
+Z367 !s108 1387068428.042000
+Z368 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/Register_File.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_32_bit
+Z369 IV^GcG8Ao0NdSOblQ2]Mbb1
+Z370 Vb3]A03Dk4mClio:1SQCZl1
+R339
+Z371 w1352379934
+Z372 8C:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit.v
+Z373 FC:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit.v
+L0 1
+R343
+r1
+31
+R344
+R345
+Z374 !s100 iSzUM:I:hYofUT8`@_kPG3
+Z375 !s90 -reportprogress|300|-work|work|-nocovercells|C:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit.v|
+Z376 !s108 1352382359.443000
+Z377 !s107 C:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit.v|
+!s85 0
+!s101 -O0
+vregister_32_bit_tb
+Z378 I_;YNz6H?D027Yf`HB[57j0
+Z379 V3PSBLdT_O14S[C76BNkUV1
+R339
+Z380 w1352382354
+Z381 8C:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit_tb.v
+Z382 FC:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit_tb.v
+L0 3
+R343
+r1
+31
+R344
+R345
+Z383 !s100 RPfNG1^:ndkJfXAiUVBI^3
+Z384 !s90 -reportprogress|300|-work|work|-nocovercells|C:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit_tb.v|
+Z385 !s108 1353418849.598000
+Z386 !s107 C:/altera/12.0/modelsim_ase/CompArch/Homework6/register_32_bit_tb.v|
+!s85 0
+!s101 -O0
+vregister_file_32_bit
+R324
+Z387 I^Kj7lEE5k<IM@bKD_VOiI0
+R3
+R54
+Z388 w1354839246
+Z389 8C:/Users/Tien/Downloads/FinalProject/Homework6/register_32_bit.v
+Z390 FC:/Users/Tien/Downloads/FinalProject/Homework6/register_32_bit.v
+L0 2
+R58
+r1
+31
+R10
+Z391 !s100 ggR>c3AdYaG2^fHhdBjiA3
+Z392 !s108 1366564486.258000
+Z393 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/register_32_bit.v|
+Z394 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/register_32_bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShift_Left
+R324
+Z395 I22kB0UH0cB[YLMMgB[9bj3
+R3
+R54
+Z396 w1353355096
+Z397 8C:/Users/Tien/Downloads/FinalProject/Homework6/shift_left.v
+Z398 FC:/Users/Tien/Downloads/FinalProject/Homework6/shift_left.v
+L0 1
+R58
+r1
+31
+R10
+Z399 n@shift_@left
+Z400 !s100 VaZgf8^>S8m<8ePYHnbGL0
+Z401 !s108 1366564486.447000
+Z402 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/shift_left.v|
+Z403 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/shift_left.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshift_left2
+Z404 InzG22`AREWzX0FH8`C;zU2
+R3
+R36
+Z405 w1386555027
+Z406 8C:/Users/Michael Nwani/Desktop/examples/shift_left2.v
+Z407 FC:/Users/Michael Nwani/Desktop/examples/shift_left2.v
+L0 1
+R8
+r1
+31
+R10
+Z408 !s110 1386572960
+Z409 !s100 GnVD32k6AJMc:hGF7k<@K1
+Z410 !s108 1386572960.590000
+Z411 !s107 C:/Users/Michael Nwani/Desktop/examples/shift_left2.v|
+Z412 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/examples/shift_left2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshift_test
+R24
+Z413 !s100 kokPNiCh[l;o86jMFW]X@0
+Z414 IJ_W]Z4d0ZmBRZWHOTa]Q:0
+R3
+R4
+Z415 w1387002143
+Z416 8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/shift_left.v
+Z417 FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/shift_left.v
+L0 1
+R8
+r1
+31
+Z418 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/shift_left.v|
+R10
+Z419 !s108 1387068428.585000
+Z420 !s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/shift_left.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSign_Extend
+Z421 I=V;_b>^b;jKBgRcTLJ44W3
+R3
+R36
+Z422 w1386567941
+Z423 8C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/sign_extend.v
+Z424 FC:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/sign_extend.v
+L0 1
+R8
+r1
+31
+R10
+Z425 n@sign_@extend
+Z426 !s100 K<kaN^c;HUFaC]geLWnd83
+Z427 !s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/sign_extend.v|
+Z428 !s110 1386571511
+Z429 !s108 1386571511.732000
+Z430 !s107 C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/sign_extend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsign_extend
+R129
+!i10b 1
+Z431 !s100 1_3`>h]k<P_<Rjak>bR[G3
+IN4:gZ0?g;>@;cD]XHXEZ31
+R3
+R4
+w1387068402
+8C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/sign_extend.v
+FC:/Users/Michael Nwani/Desktop/wth/Advanced_Project/sign_extend.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1387068429.508000
+!s107 C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/sign_extend.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Michael Nwani/Desktop/wth/Advanced_Project/sign_extend.v|
+!s101 -O0
+R10
+vsign_extend_tb
+R324
+Z432 I=VcMJTAmT29:F^aXW5MQG3
+R3
+R54
+Z433 w1353191454
+Z434 8C:/Users/Tien/Downloads/FinalProject/Homework6/sign_extend_tb.v
+Z435 FC:/Users/Tien/Downloads/FinalProject/Homework6/sign_extend_tb.v
+L0 3
+R58
+r1
+31
+R10
+Z436 !s100 RA2:N54fUNcLK:1NbUTC31
+Z437 !s108 1366564486.823000
+Z438 !s107 C:/Users/Tien/Downloads/FinalProject/Homework6/sign_extend_tb.v|
+Z439 !s90 -reportprogress|300|-work|work|C:/Users/Tien/Downloads/FinalProject/Homework6/sign_extend_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0

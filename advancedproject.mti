@@ -1,0 +1,204 @@
+{C:/Users/Michael Nwani/Desktop/Hazard_Detection_Unit.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/Hazard_Detection_Unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Hazard_Detection_Unit
+
+Top level modules:
+	Hazard_Detection_Unit
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ID_EX_reg.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ID_EX_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control_tb.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module control_unit_tb
+
+Top level modules:
+	control_unit_tb
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/cpu.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/cpu.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/adder.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/IF_ID_reg.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/IF_ID_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/EX_MEM_reg.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/EX_MEM_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/comparator.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/comparator.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Compare
+
+Top level modules:
+	Compare
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/control.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/shift_left_simple.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/shift_left_simple.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module shift_left2
+
+Top level modules:
+	shift_left2
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/PC.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/PC.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/main_tb.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/main_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module main_tb
+
+Top level modules:
+	main_tb
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/and.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/and.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module And
+
+Top level modules:
+	And
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/examples/sign_extend.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/examples/sign_extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add4.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add4.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module PC_Plus_4
+
+Top level modules:
+	PC_Plus_4
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/examples/shift_left2.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/examples/shift_left2.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module shift_left2
+
+Top level modules:
+	shift_left2
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU_tb.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/ALU_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/processor.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/processor.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module processor
+
+Top level modules:
+	processor
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/shift_left.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/shift_left.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module shift_test
+
+Top level modules:
+	shift_test
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/Forwarding_Unit.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/Forwarding_Unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Forwarding_Unit
+
+Top level modules:
+	Forwarding_Unit
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/Hazard_unit.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/Hazard_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Hazard_Detection_Unit
+
+Top level modules:
+	Hazard_Detection_Unit
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/add.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module add
+
+Top level modules:
+	add
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/memory.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/2_1_mux.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/2_1_mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module mux_2_1
+
+Top level modules:
+	mux_2_1
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/3_1_mux.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/3_1_mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module mux_3_1
+
+Top level modules:
+	mux_3_1
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/Register_File.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/Register_File.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/MEM_WB_reg.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/MEM_WB_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/forward_unit.v} {1 {vlog -work work {C:/Users/Michael Nwani/Desktop/FinalProject/FinalProject/Homework6/forward_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.2c Compiler 2013.07 Jul 18 2013
+-- Compiling module Forwarding_Unit
+
+Top level modules:
+	Forwarding_Unit
+
+} {} {}}
